@@ -9,7 +9,7 @@ Computer Science student with interest in programming, problem solving, and soft
 - HTML / CSS
 - Git & GitHub
 
-## Currently Learning
+## Focus Areas
 - Data Structures and Algorithms
 - Web Development
 - Practical Projects
