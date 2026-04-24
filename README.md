@@ -1,10 +1,6 @@
-# Hi, I'm Vaishnavi Jaiswal 👋
+# Vaishnavi Jaiswal
 
-## About Me
-🎓 Computer Science Student  
-💻 Learning Programming & Development  
-🚀 Building Projects and improving skills daily  
-🌱 Currently exploring Git, GitHub, Python, and Web Development  
+Computer Science student with interest in programming, problem solving, and software development.
 
 ## Skills
 - C
@@ -13,5 +9,10 @@
 - HTML / CSS
 - Git & GitHub
 
+## Currently Learning
+- Data Structures and Algorithms
+- Web Development
+- Practical Projects
+
 ## Connect
-🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-jaiswal-a35a28327
+LinkedIn: https://www.linkedin.com/in/vaishnavi-jaiswal-a35a28327
