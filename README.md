@@ -73,7 +73,7 @@ A project exploring algorithm-based path planning for autonomous drone delivery.
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/vaishnavi-jaiswal-a35a28327)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vaishnavi-jaiswal-a35a28327
 
 - 🐙 **GitHub:** [vaishnavijaiswall](https://github.com/vaishnavijaiswall)
 
